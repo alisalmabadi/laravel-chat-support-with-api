@@ -19,6 +19,9 @@
           <root url="file://C:/blog/vendor/doctrine/lexer" />
           <root url="file://C:/blog/vendor/erusev/parsedown" />
           <root url="file://C:/blog/vendor/fzaninotto/faker" />
+          <root url="file://C:/blog/vendor/guzzlehttp/guzzle" />
+          <root url="file://C:/blog/vendor/guzzlehttp/promises" />
+          <root url="file://C:/blog/vendor/guzzlehttp/psr7" />
           <root url="file://C:/blog/vendor/hamcrest/hamcrest-php" />
           <root url="file://C:/blog/vendor/jakub-onderka/php-console-color" />
           <root url="file://C:/blog/vendor/jakub-onderka/php-console-highlighter" />
@@ -46,8 +49,10 @@
           <root url="file://C:/blog/vendor/phpunit/php-token-stream" />
           <root url="file://C:/blog/vendor/phpunit/phpunit" />
           <root url="file://C:/blog/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://C:/blog/vendor/psr/http-message" />
           <root url="file://C:/blog/vendor/psr/log" />
           <root url="file://C:/blog/vendor/psy/psysh" />
+          <root url="file://C:/blog/vendor/ralouphie/getallheaders" />
           <root url="file://C:/blog/vendor/ramsey/uuid" />
           <root url="file://C:/blog/vendor/sallar/jdatetime" />
           <root url="file://C:/blog/vendor/sebastian/code-unit-reverse-lookup" />
@@ -93,6 +98,9 @@
           <root url="file://C:/blog/vendor/doctrine/lexer" />
           <root url="file://C:/blog/vendor/erusev/parsedown" />
           <root url="file://C:/blog/vendor/fzaninotto/faker" />
+          <root url="file://C:/blog/vendor/guzzlehttp/guzzle" />
+          <root url="file://C:/blog/vendor/guzzlehttp/promises" />
+          <root url="file://C:/blog/vendor/guzzlehttp/psr7" />
           <root url="file://C:/blog/vendor/hamcrest/hamcrest-php" />
           <root url="file://C:/blog/vendor/jakub-onderka/php-console-color" />
           <root url="file://C:/blog/vendor/jakub-onderka/php-console-highlighter" />
@@ -120,8 +128,10 @@
           <root url="file://C:/blog/vendor/phpunit/php-token-stream" />
           <root url="file://C:/blog/vendor/phpunit/phpunit" />
           <root url="file://C:/blog/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://C:/blog/vendor/psr/http-message" />
           <root url="file://C:/blog/vendor/psr/log" />
           <root url="file://C:/blog/vendor/psy/psysh" />
+          <root url="file://C:/blog/vendor/ralouphie/getallheaders" />
           <root url="file://C:/blog/vendor/ramsey/uuid" />
           <root url="file://C:/blog/vendor/sallar/jdatetime" />
           <root url="file://C:/blog/vendor/sebastian/code-unit-reverse-lookup" />
