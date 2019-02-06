@@ -9,14 +9,11 @@
         <CLASSES>
           <root url="file://C:/blog/vendor/composer" />
           <root url="file://C:/blog/vendor/dnoegel/php-xdg-base-dir" />
-          <root url="file://C:/blog/vendor/doctrine/annotations" />
           <root url="file://C:/blog/vendor/doctrine/cache" />
-          <root url="file://C:/blog/vendor/doctrine/collections" />
-          <root url="file://C:/blog/vendor/doctrine/common" />
           <root url="file://C:/blog/vendor/doctrine/dbal" />
+          <root url="file://C:/blog/vendor/doctrine/event-manager" />
           <root url="file://C:/blog/vendor/doctrine/inflector" />
           <root url="file://C:/blog/vendor/doctrine/instantiator" />
-          <root url="file://C:/blog/vendor/doctrine/lexer" />
           <root url="file://C:/blog/vendor/erusev/parsedown" />
           <root url="file://C:/blog/vendor/fzaninotto/faker" />
           <root url="file://C:/blog/vendor/guzzlehttp/guzzle" />
@@ -38,6 +35,8 @@
           <root url="file://C:/blog/vendor/nikic/php-parser" />
           <root url="file://C:/blog/vendor/paragonie/random_compat" />
           <root url="file://C:/blog/vendor/paypal/rest-api-sdk-php" />
+          <root url="file://C:/blog/vendor/phar-io/manifest" />
+          <root url="file://C:/blog/vendor/phar-io/version" />
           <root url="file://C:/blog/vendor/phpdocumentor/reflection-common" />
           <root url="file://C:/blog/vendor/phpdocumentor/reflection-docblock" />
           <root url="file://C:/blog/vendor/phpdocumentor/type-resolver" />
@@ -62,11 +61,13 @@
           <root url="file://C:/blog/vendor/sebastian/exporter" />
           <root url="file://C:/blog/vendor/sebastian/global-state" />
           <root url="file://C:/blog/vendor/sebastian/object-enumerator" />
+          <root url="file://C:/blog/vendor/sebastian/object-reflector" />
           <root url="file://C:/blog/vendor/sebastian/recursion-context" />
           <root url="file://C:/blog/vendor/sebastian/resource-operations" />
           <root url="file://C:/blog/vendor/sebastian/version" />
           <root url="file://C:/blog/vendor/swiftmailer/swiftmailer" />
           <root url="file://C:/blog/vendor/symfony/console" />
+          <root url="file://C:/blog/vendor/symfony/contracts" />
           <root url="file://C:/blog/vendor/symfony/css-selector" />
           <root url="file://C:/blog/vendor/symfony/debug" />
           <root url="file://C:/blog/vendor/symfony/event-dispatcher" />
@@ -80,7 +81,7 @@
           <root url="file://C:/blog/vendor/symfony/routing" />
           <root url="file://C:/blog/vendor/symfony/translation" />
           <root url="file://C:/blog/vendor/symfony/var-dumper" />
-          <root url="file://C:/blog/vendor/symfony/yaml" />
+          <root url="file://C:/blog/vendor/theseer/tokenizer" />
           <root url="file://C:/blog/vendor/tijsverkoyen/css-to-inline-styles" />
           <root url="file://C:/blog/vendor/vlucas/phpdotenv" />
           <root url="file://C:/blog/vendor/webmozart/assert" />
@@ -88,14 +89,11 @@
         <SOURCES>
           <root url="file://C:/blog/vendor/composer" />
           <root url="file://C:/blog/vendor/dnoegel/php-xdg-base-dir" />
-          <root url="file://C:/blog/vendor/doctrine/annotations" />
           <root url="file://C:/blog/vendor/doctrine/cache" />
-          <root url="file://C:/blog/vendor/doctrine/collections" />
-          <root url="file://C:/blog/vendor/doctrine/common" />
           <root url="file://C:/blog/vendor/doctrine/dbal" />
+          <root url="file://C:/blog/vendor/doctrine/event-manager" />
           <root url="file://C:/blog/vendor/doctrine/inflector" />
           <root url="file://C:/blog/vendor/doctrine/instantiator" />
-          <root url="file://C:/blog/vendor/doctrine/lexer" />
           <root url="file://C:/blog/vendor/erusev/parsedown" />
           <root url="file://C:/blog/vendor/fzaninotto/faker" />
           <root url="file://C:/blog/vendor/guzzlehttp/guzzle" />
@@ -117,6 +115,8 @@
           <root url="file://C:/blog/vendor/nikic/php-parser" />
           <root url="file://C:/blog/vendor/paragonie/random_compat" />
           <root url="file://C:/blog/vendor/paypal/rest-api-sdk-php" />
+          <root url="file://C:/blog/vendor/phar-io/manifest" />
+          <root url="file://C:/blog/vendor/phar-io/version" />
           <root url="file://C:/blog/vendor/phpdocumentor/reflection-common" />
           <root url="file://C:/blog/vendor/phpdocumentor/reflection-docblock" />
           <root url="file://C:/blog/vendor/phpdocumentor/type-resolver" />
@@ -141,11 +141,13 @@
           <root url="file://C:/blog/vendor/sebastian/exporter" />
           <root url="file://C:/blog/vendor/sebastian/global-state" />
           <root url="file://C:/blog/vendor/sebastian/object-enumerator" />
+          <root url="file://C:/blog/vendor/sebastian/object-reflector" />
           <root url="file://C:/blog/vendor/sebastian/recursion-context" />
           <root url="file://C:/blog/vendor/sebastian/resource-operations" />
           <root url="file://C:/blog/vendor/sebastian/version" />
           <root url="file://C:/blog/vendor/swiftmailer/swiftmailer" />
           <root url="file://C:/blog/vendor/symfony/console" />
+          <root url="file://C:/blog/vendor/symfony/contracts" />
           <root url="file://C:/blog/vendor/symfony/css-selector" />
           <root url="file://C:/blog/vendor/symfony/debug" />
           <root url="file://C:/blog/vendor/symfony/event-dispatcher" />
@@ -159,7 +161,7 @@
           <root url="file://C:/blog/vendor/symfony/routing" />
           <root url="file://C:/blog/vendor/symfony/translation" />
           <root url="file://C:/blog/vendor/symfony/var-dumper" />
-          <root url="file://C:/blog/vendor/symfony/yaml" />
+          <root url="file://C:/blog/vendor/theseer/tokenizer" />
           <root url="file://C:/blog/vendor/tijsverkoyen/css-to-inline-styles" />
           <root url="file://C:/blog/vendor/vlucas/phpdotenv" />
           <root url="file://C:/blog/vendor/webmozart/assert" />
